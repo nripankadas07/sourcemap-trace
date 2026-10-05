@@ -1,0 +1,227 @@
+{
+  "observed_utc": "2026-10-05T06:07:38.257Z",
+  "queries": [
+    {
+      "name": "sourcemap-trace",
+      "query": "source map",
+      "url": "https://api.github.com/search/repositories?q=source+map&sort=stars&order=desc&per_page=10",
+      "observed_utc": "2026-10-05T06:07:05.520720+00:00",
+      "results": [
+        {
+          "full_name": "subframe7536/maple-font",
+          "html_url": "https://github.com/subframe7536/maple-font",
+          "stargazers_count": 29126,
+          "pushed_at": "2026-09-20T15:10:42Z"
+        },
+        {
+          "full_name": "CesiumGS/cesium",
+          "html_url": "https://github.com/CesiumGS/cesium",
+          "stargazers_count": 15800,
+          "pushed_at": "2026-10-03T00:28:01Z"
+        },
+        {
+          "full_name": "organicmaps/organicmaps",
+          "html_url": "https://github.com/organicmaps/organicmaps",
+          "stargazers_count": 15584,
+          "pushed_at": "2026-10-05T00:34:12Z"
+        },
+        {
+          "full_name": "UZ-SLAMLab/ORB_SLAM3",
+          "html_url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+          "stargazers_count": 9126,
+          "pushed_at": "2024-07-24T08:41:52Z"
+        },
+        {
+          "full_name": "ygs-code/vue",
+          "html_url": "https://github.com/ygs-code/vue",
+          "stargazers_count": 7335,
+          "pushed_at": "2025-08-10T11:35:16Z"
+        },
+        {
+          "full_name": "kulshekhar/ts-jest",
+          "html_url": "https://github.com/kulshekhar/ts-jest",
+          "stargazers_count": 7072,
+          "pushed_at": "2026-10-04T15:12:22Z"
+        },
+        {
+          "full_name": "hyperknot/openfreemap",
+          "html_url": "https://github.com/hyperknot/openfreemap",
+          "stargazers_count": 6131,
+          "pushed_at": "2026-10-04T12:29:41Z"
+        },
+        {
+          "full_name": "sshuair/awesome-gis",
+          "html_url": "https://github.com/sshuair/awesome-gis",
+          "stargazers_count": 5549,
+          "pushed_at": "2026-07-21T09:10:54Z"
+        },
+        {
+          "full_name": "deepfence/ThreatMapper",
+          "html_url": "https://github.com/deepfence/ThreatMapper",
+          "stargazers_count": 5323,
+          "pushed_at": "2026-06-01T08:38:26Z"
+        },
+        {
+          "full_name": "benjamn/recast",
+          "html_url": "https://github.com/benjamn/recast",
+          "stargazers_count": 5253,
+          "pushed_at": "2026-08-21T18:07:46Z"
+        }
+      ]
+    },
+    {
+      "query": "source-map in:name",
+      "url": "https://api.github.com/search/repositories?q=source-map+in%3Aname&sort=stars&order=desc&per_page=10",
+      "observed_utc": "2026-10-05T06:15:57.099811+00:00",
+      "results": [
+        {
+          "repo": "danvk/source-map-explorer",
+          "stars": 3931,
+          "url": "https://github.com/danvk/source-map-explorer",
+          "pushed": "2023-03-14T16:39:24Z"
+        },
+        {
+          "repo": "mozilla/source-map",
+          "stars": 3724,
+          "url": "https://github.com/mozilla/source-map",
+          "pushed": "2026-09-09T01:00:35Z"
+        },
+        {
+          "repo": "evanw/node-source-map-support",
+          "stars": 2193,
+          "url": "https://github.com/evanw/node-source-map-support",
+          "pushed": "2024-08-03T12:06:40Z"
+        },
+        {
+          "repo": "DataScienceResearchPeru/OpenSource-RoadMap-DataScience",
+          "stars": 805,
+          "url": "https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience",
+          "pushed": "2024-08-30T23:49:35Z"
+        },
+        {
+          "repo": "sokra/source-map-visualization",
+          "stars": 679,
+          "url": "https://github.com/sokra/source-map-visualization",
+          "pushed": "2021-10-04T16:57:01Z"
+        },
+        {
+          "repo": "evanw/source-map-visualization",
+          "stars": 597,
+          "url": "https://github.com/evanw/source-map-visualization",
+          "pushed": "2024-07-09T15:01:37Z"
+        },
+        {
+          "repo": "webpack-contrib/source-map-loader",
+          "stars": 373,
+          "url": "https://github.com/webpack-contrib/source-map-loader",
+          "pushed": "2025-08-29T17:21:24Z"
+        },
+        {
+          "repo": "markbates/coffee-rails-source-maps",
+          "stars": 238,
+          "url": "https://github.com/markbates/coffee-rails-source-maps",
+          "pushed": "2016-04-12T09:39:04Z"
+        },
+        {
+          "repo": "ryanseddon/source-map",
+          "stars": 230,
+          "url": "https://github.com/ryanseddon/source-map",
+          "pushed": "2014-05-26T00:06:19Z"
+        },
+        {
+          "repo": "thlorenz/convert-source-map",
+          "stars": 170,
+          "url": "https://github.com/thlorenz/convert-source-map",
+          "pushed": "2025-03-27T03:08:35Z"
+        }
+      ]
+    }
+  ],
+  "comparables": [
+    {
+      "repository": "mozilla/source-map",
+      "metadata": {
+        "url": "https://github.com/mozilla/source-map",
+        "stars": 3724,
+        "updated": "2026-09-09T01:00:35Z",
+        "license": "NOASSERTION",
+        "default_branch": "master"
+      },
+      "readme_url": "https://github.com/mozilla/source-map/blob/master/README.md",
+      "issue_samples": [
+        {
+          "title": "Fix wasm-mappings build failure on Rust 1.96+",
+          "url": "https://github.com/mozilla/source-map/pull/531",
+          "created": "2026-07-22T21:27:52Z"
+        },
+        {
+          "title": "wasm-mappings fail to build with Rust 1.96+",
+          "url": "https://github.com/mozilla/source-map/issues/530",
+          "created": "2026-07-22T21:23:44Z"
+        },
+        {
+          "title": "allow wasm to be bundled",
+          "url": "https://github.com/mozilla/source-map/issues/527",
+          "created": "2026-05-25T15:15:53Z"
+        }
+      ]
+    },
+    {
+      "repository": "jridgewell/trace-mapping",
+      "metadata": {
+        "url": "https://github.com/jridgewell/trace-mapping",
+        "stars": 110,
+        "updated": "2025-06-28T21:25:07Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme_url": "https://github.com/jridgewell/trace-mapping/blob/main/README.md",
+      "issue_samples": []
+    },
+    {
+      "repository": "evanw/source-map-visualization",
+      "metadata": {
+        "url": "https://github.com/evanw/source-map-visualization",
+        "stars": 597,
+        "updated": "2024-07-09T15:01:37Z",
+        "default_branch": "gh-pages"
+      },
+      "readme_url": "https://github.com/evanw/source-map-visualization/blob/gh-pages/README.md",
+      "issue_samples": [
+        {
+          "title": "Create index.html",
+          "url": "https://github.com/evanw/source-map-visualization/pull/24",
+          "created": "2025-11-13T12:08:56Z"
+        },
+        {
+          "title": "Feature Request :  Download the Original Code",
+          "url": "https://github.com/evanw/source-map-visualization/issues/23",
+          "created": "2025-02-16T17:41:30Z"
+        },
+        {
+          "title": "Issue with generation of original code.",
+          "url": "https://github.com/evanw/source-map-visualization/issues/22",
+          "created": "2024-10-19T14:18:27Z"
+        }
+      ]
+    },
+    {
+      "repository": "danvk/source-map-explorer",
+      "metadata": {
+        "url": "https://github.com/danvk/source-map-explorer",
+        "stars": 3931,
+        "updated": "2023-03-14T16:39:24Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme_url": "https://github.com/danvk/source-map-explorer/blob/master/README.md",
+      "issue_samples": []
+    }
+  ],
+  "moved_source_map_monorepo": {
+    "url": "https://github.com/jridgewell/sourcemaps",
+    "stars": 54,
+    "updated": "2026-08-28T01:18:29Z",
+    "default_branch": "main"
+  }
+}
